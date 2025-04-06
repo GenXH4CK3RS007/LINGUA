@@ -4,6 +4,8 @@
 
 # LINGUA
 
+Demo video: https://drive.google.com/file/d/1R5KXyUDs2mHQ1Ve0-b8ZlofxfY8GcR6G/view?usp=sharing
+
 #### L: Live – Real-time translation of ISL into text and speech.
 #### I: Interpretation – Accurate recognition and interpretation of Indian Sign Language.
 #### N: Narration – Providing speech output in multiple Indian languages.
